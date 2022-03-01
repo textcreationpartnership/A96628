@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voyce from the heavenly vvord of God; as a representation to every member of Parliament of the Commonwealth of England, in the behalf of Mr. John Lilburne close prisoner in Newgate. With the sighs and lamentations of many of the free born people of England, for justice and equity, whose answers are hereunto subscribed, on the behalf of themselves and others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96628</idno>
+            <idno type="STC">Wing W2814</idno>
+            <idno type="STC">Thomason 669.f.17[43]</idno>
+            <idno type="STC">ESTC R211675</idno>
+            <idno type="EEBO-CITATION">99870381</idno>
+            <idno type="PROQUEST">99870381</idno>
+            <idno type="VID">163292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163292)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voyce from the heavenly vvord of God; as a representation to every member of Parliament of the Commonwealth of England, in the behalf of Mr. John Lilburne close prisoner in Newgate. With the sighs and lamentations of many of the free born people of England, for justice and equity, whose answers are hereunto subscribed, on the behalf of themselves and others.</title>
+                  <author>Willis, Ralph, fl. 1653.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>August 10, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Ralph Willis [and 7 others].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Prisoners --  Civil rights --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163292:1" rendition="simple:additions"/>
+            <head>A Voyce from the Heavenly Word of God; AS A Repreſentation to every Member of Parliament of the Commonwealth of <hi>England,</hi> In the Behalf of Mr. <hi>JOHN LILB<g ref="char:V">Ʋ</g>RNE</hi> cloſe Priſoner in <hi>Newgate.</hi> WITH The ſighs and lamentations of many of the free born People of England for Juſtice and Equity, whoſe names are hereunto ſubſcribed, on the behalf of themſelves and others.</head>
+            <p>THe Lord Jehovah alone is the Power of all powers, King of kings, and Lord of lords: <hi>By me Kings rule or Ragin, and Princes decree Juſtice; by me Princes Rule, and Nobles, even all the Judges of the earth,</hi> Prov 8. 15, 16. thus with the minde of God, all the people that fear God do acknowledge all powers to be of God, <hi>Rom. 13. 1, 2, 3. 1 Pet. 2. 13, 14, 2 Chron.</hi> 19. 4, 5. Theſe Scriptures diſcovering the reaſon why Powers are ſet up of God over people: Firſt, Rulers are not a terror to good works, but to the evil, <hi>Rom. 13. 3. For the puniſhment of evil doers, and for the praiſe of them that do well,</hi> 1 Pet. 2. 14. And as <hi>Jehoſhaphats</hi> charge was to the Judges which he ſet over the fenced Cities of Judah: thus he ſaid unto them, <hi>Take heed what ye do, for ye judge not for man, but for the Lord, who is with you, or ſhould be with you in judgement; wherefore now let the fear of the Lord be upon you, take heed, and do it, for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts,</hi> 2 Chron. 19. 4, 5, 6, 7. And as <hi>Moſes</hi> charged the Judges, to hear the cauſes of their brethren, and to judge righteouſly between every man and his brother, and the ſtranger that is with them: <hi>Ye ſhall not reſpect perſons in judgement, but ye ſhall hear the ſmall as well as the great; ye ſhall not be afraid of the face of man, for the judge<g ref="char:EOLhyphen"/>ment is Gods,</hi> Deut. 1. 16, 17. For the Word of the Lord ſaith, <hi>Curſed is he that perverteth the judgement of the ſtranger, fatherleſs and widow, and all the people ſhall ſay Amen,</hi> Deut. 27. 19. mark the words of the Queen of <hi>Sheba</hi> to <hi>Solomon, Happy are the men, happy are theſe thy ſervants, which ſtand continually before thee, and that hear thy wiſdom, therefore the Lord made him King, to do Iudgement, and Iuſtice,</hi> 1 Kings 10. 8, 9. <hi>For when the righteous are in Authority the people rejoyce; but when the wicked beareth rule, the people mourn: The righteous conſidereth the cauſe of the poor, but the wicked regardeth not to know it,</hi> Prov. 29. 2. 7. for he that ruleth over men muſt be juſt, ruling in the fear of God: So ſhall he be as the light of the morning, when the ſun riſeth, even as the morning without clouds, as the tender graſs ſpringeth out of the earth by clear ſhining after rain, 2 <hi>Samuel</hi> 23. 3, 4. for the pathes of the juſt is as the ſhining light, that ſhineth more and more unto the perfect day, <hi>Prov. 4. 18. It is joy to the juſt to do judgement, but deſtruction ſhall be to the workers of iniquity.</hi> Prov. 21. 15. <hi>For the ways of man are before the eyes of the Lord, and he pondereth all his goings,</hi> Prov. 5 21. <hi>For the eyes of the Lord run to and fro through the whole earth, to ſhew himſelf ſtrong in the be half of them whoſe hearts are perfect towards him,</hi> 2 Chron. 16. 9. Zach. 4. 10. Jer. 16, 17. <hi>Now he that is juſt ſhall ſurely live.</hi>
+            </p>
+            <p>Thus are the charges of the everlaſting God to all Princes or Parliaments, or Magiſtrates and Judges, that will obey the command of the God of Iſrael; and in ſo doing, you or they glorifie his name, and gain to your ſelves everlaſting comfort.</p>
+            <p>But now ſeeing the cauſe wherefore the Lord hath ordained a power to be over people, and the rule for them to walk by, as is abovenamed, and you the preſent power that we are under, as you do declare your ſelves to be the Parliament of the Commonwealth of England, whom we own in all, as all powers are of God, praying for the preſervation of you, according to the Command of God by his Apoſtle, that we may lead a quiet and peaceable life, in all godlineſs and honeſty, 1. <hi>Tim.</hi> 2. 1, 2. and willing to aſſiſt you to the ut<g ref="char:EOLhyphen"/>moſt of our power in all well-doing, to the glory of God, and Comfort of his people: And we the free born people of the Commonwealth of England, do underſtand you do declare your ſelves free and willing to do good for the free born people of this Nation, in ſetting the oppreſſed free; and you profeſſing your ſelves to have much of the knowledge of God amongſt you by your Declaration, &amp; teachers of others, therefore hear all ye people, and hearken O earth, and all that therein is, and let the Lord God be witneſs againſt you, the Lord from his holy Temple, if you juſtifie the deeds of that wicked Parliament, who are deſtroyed and gone out like the ſnuff of a candle. Wo unto them that deviſe iniquity, and work evil upon their beds, when the morning is light, then they practiſe it, becauſe it is in the power of their hands, who make a man an offender for a word, as did the late Parliament againſt Mr. <hi>Lilburn,</hi> who made an Act to baniſh him for words, which was the ground only and alone that that muſt illegal and unjuſt Act had its foundation from, becauſe mens wills would have it ſo, and ſo there wills muſt become a Law, by this inſnaring Act, not only to fine Lieut: Col: John Lilburn (as that Act calls him) in ſeven thouſand pounds for words, but he muſt go into perpetual baniſhment, and if he return he muſt ſuffer as a Fellon: Wil being the womb in which this moſt bitter in<g ref="char:EOLhyphen"/>humane, illegal Act had its conception in the bowels of iniquity, to make their will a deſtroying Law, contrary to the Law of God, and the Law of Nature, which is to do unto all men, as they would have all men to do unto them: Now judge you, whether the late Parliament hath done to Mr. Lilburne, as they would be done by? or if anyof you of this preſent Parliament ſhould have any ſuch Act and Fine made and paſt againſt you, or any of your near relations judge ye.</p>
+            <p>But bleſſed be the Lord which judgeth righteouſly, and hath not ſpoken his word in vain: For the terrible ones are brought to nought, and the ſcorner is conſumed, and all that watch for iniquity are cut off, that make a man an offender for a word, and lay a ſnare for him that reproveth in the gate, and turn aſide the juſt for a thing of nought, <hi>Iſai.</hi> 29. 20, 21 If a word againſt a man be but a treſpaſs, as Chriſt ſaith, <hi>Matth.</hi> 18. 35. a man ſhould forgive a man his treſpaſs untill ſeventy times ſeven; and ſeeing it lies in your power to forgive a treſpaſs, if ye from your hearts forgive not every one his brother his treſpaſſes, how ſhall Chriſt forgive you, Now how much rather that wicked Act, wherein there was no treſpaſſe worthy of ſuch an Act to be made, as in it ſelf it doth plainly appear.</p>
+            <p>Further, we humbly intreat you to conſider the dayes that are paſt, in which wicked men did reign, being the late Parliament, whom the Lord by means hath rooted out; Did not the Heads thereof judge for reward? <hi>Mic.</hi> 3. 11. But we hope better things of you, and if you will ſeriouſly conſider with your ſelves, to preſerve the life of Mr. <hi>Lilburn,</hi> in ma<g ref="char:EOLhyphen"/>king v<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id that moſt illegall Act pretendedly made againſt him, and let Chriſt be your example, who came, not to deſtroy mens lives, but to ſave them; and ſee how he reproved his Diſciples for deſiring fire to come down from heaven to deſtroy mens lives; but Chriſt reproves them, telling them, they knew not what ſpirits they were of: therefore conſider what ſpirits ye are of, if ye have the ſpirit of Chriſt, from that ſpirit we are ſure proceeds theſe fruits, love, joy, peace, long-ſuffering, gentleneſſe, goodneſſe, faith, meekneſſe, tempe<g ref="char:EOLhyphen"/>rance; againſt ſuch there is no law, <hi>Gal.</hi> 5 22. For every tree ſhall be known by his Fruit, <hi>Mat.</hi> 7. Men cannot gather grapes of thorns, nor figgs of thiſtles; neither doth a foun<g ref="char:EOLhyphen"/>tain ſend forth at the ſame place ſweet water and bitter, <hi>Jam.</hi> 3. 11. Neither can any ſay they have <hi>Abraham</hi> to their father, if they do the works of the Divell, who was a murtherer from the beginniug, <hi>John</hi> 8. 39. 44. therefore be ſober and vigilant, and conſider the words of Chriſt, that valued the life of man more then all the things on earth, <hi>Matth.</hi> 6. 25. For we know the Lord is of long-ſuffering and tender mercy, and would not that any ſhould periſh. Now lay this to heart we intreat you, for yo ur own good, that the guilt of Mr. <hi>Lilburnes</hi> blood be not upon you, ſeeing the word ſaith, He that biddeth any God ſpeed in any evill, is partaker of their evill deeds, 2 <hi>John</hi> 10. 11.</p>
+            <p>So we deſire you that you go not into that way of thoſe wicked men which made that moſt wicked Act againſt Mr. <hi>Lilburn;</hi> for they that juſtifie the wicked, and condemn the juſt, even they are abomination to the Lord: If we be not mercifull to another, how ſhall we expect mercys at the hand of God, ſeeing we all, nay, the beſt of men, are ſo great of<g ref="char:EOLhyphen"/>fenders daily to his glorious Majeſty, the Lord of Hoſts; and ſhall a man have his life taken away for a word, which wicked men took as an offence; and will you juſtifie men in their wickedneſs, and neglect the righteouſneſſe of God in doing of Juſtice? and when your pleaſure is you will ſave a mans life though condemned to die according to the Law. Conſider we pray you, and be not worſe then the unjuſt Judge, who feared not God nor regarded man, yet he heard the cry of a poor widow that cryed unto him, <hi>Luke</hi> 18. and how many thouſand hath cryed daily unto you for juſtice in the behalf of Mr. <hi>Lilburn,</hi> yet none can be heard? Conſider we humbly pray you how it grieveth the ſouls of thoſe that fear the Lord, to ſee how hard you deal with Mr. <hi>Lilburn</hi> in keeping him cloſe-priſoner, debarring him the company of his friends; more hard uſage then was received from the heathens of <hi>Paul,</hi> though he was accuſed to be a raiſer of new Sects, yet when he was a priſoner in the Caſtle, kept by the chief Captain, yet had he his liberty for his friends to come to him, as appeareth by <hi>Acts</hi> 23. 16. for when <hi>Pauls</hi> ſiſters ſon heard of ſome lying in wait to deſtroy <hi>Paul,</hi> he went and entred into the Caſtle, no man forbidding him, to acquaint <hi>Paul</hi> with it: and when <hi>Felix</hi> commanded a Centurion to keep <hi>Paul</hi> priſoner, theſe are his words, to let <hi>Paul</hi> have his liberty, and that he ſhould hinder none of his friends to miniſter unto him, <hi>Acts</hi> 24. 23. as alſo did the heathens ſuffer <hi>Paul</hi> to live two years in his own hired houſe at <hi>Rome,</hi> forbidding none to come to him, <hi>Acts</hi> 28. 30. and if <hi>Paul</hi> who was a Jew had this li<g ref="char:EOLhyphen"/>berty of heathens, would it not grieve any ſoul to ſee the Freeborn people of this Nation (who profeſs themſelves Chriſtians) ſo cruel one to the other? Therefore we intreat you to let Mr. <hi>Lilburn</hi> have his liberty, that his friends may come to him.</p>
+            <p>And laſtly, we deſire you to conſider theſe our requeſts (tending as we hope) for the good of all, and eſpecially thoſe that fear the Lord; and let us not be accounted your ene<g ref="char:EOLhyphen"/>mies by declaring unto you the truth, or in deſiring the innocent bloud of Mr. <hi>Lilburn</hi> might not be ſuffered to be ſpilt, to ſatisfie the luſt of his bloudthirſty enemies. Conſider the innocent <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> which was ſlain by <hi>Davids</hi> command to ſatisfie his luſt, which cauſed him much repentance for it, <hi>Pſal</hi> 51. for which ſin the Lord would not ſuffer him to build him an houſe; and for that ſin, the ſword did not depart from his houſe all his daies. Seeing it lyeth in your power to ſave the bloud of Mr. <hi>Lilburn</hi> that it be not ſpilt, by making void that moſt illegal Act, and that all Tryals the reupon againſt him be nul and void; but if Mr. <hi>John Lilburn</hi> according to the Law of God (which ſhould be the foundation of al Laws, to try all men by, but eſpecially thoſe that profeſs themſelves Chriſtians) were he worthy of puniſhment or death, if we did know it, we ſhould not deſire it, contrary to the Law of God. Therefore hear what the wiſe man ſaith, Whoſo ſtoppeth his ears at the cry of the poor, he alſo ſhall cry himſelf, but not be heard, <hi>Prov.</hi> 28. 9. He that turneth his ear from hearing the Law, his prayer ſhall be an abomination to the Lord. Give inſtruction to a wiſe man, and he will yet be wiſer teach a juſt man, and he will increaſe in learning. So ho<g ref="char:EOLhyphen"/>ping you will hear our juſt requeſts, that we may be happy meſſengers for Mr. <hi>Lilburns</hi> deliverance from his cruel and cauſeleſs bondage; ſo you vvill not only have the praiſe of men, but of God: and in ſo doing you vvill oblige your friends, vvho as in du<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y bound, ſhall ever pray.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Ralph Willis</item>
+                     <item>Philip Thomas</item>
+                     <item>Iſaack Gray</item>
+                     <item>George Lawſon</item>
+                     <item>Robert Hannam</item>
+                     <item>Richard Woodward</item>
+                     <item>Nicholas Waterſon</item>
+                     <item>Tho. Wall.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London, Auguſt 10. 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
